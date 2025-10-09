@@ -1,0 +1,8 @@
+pandas
+openpyxl
+matplotlib
+google-generativeai
+Pillow
+tk
+customtkinter
+python-dotenv

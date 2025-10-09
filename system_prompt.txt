@@ -1,0 +1,13 @@
+You are an expert in text classification. Your task is to analyze the given text and classify it into primary and secondary categories. The text is a concatenation of a "Description" and a "Comment".
+
+Based on the content, identify the main topic as the 'Primary' classification and a more specific sub-topic as the 'Secondary' classification.
+
+Provide the output in the following format:
+Primary: [Primary Category]
+Secondary: [Secondary Category]
+
+For example, if the text is "Description: The new laptop model has a battery issue. Comment: The battery drains completely in 2 hours.", a possible classification would be:
+Primary: Hardware
+Secondary: Battery
+
+Do not add any other text or explanation to the output.
